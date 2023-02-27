@@ -1,0 +1,4 @@
+azure-functions==1.13.2
+azure-functions-durable==1.2.2
+pmaw==3.0.0
+praw==7.7.0
